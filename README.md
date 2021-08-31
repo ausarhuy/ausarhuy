@@ -15,4 +15,4 @@
 - Deep learning Coursea
 ### Languages
 - English: Intermediate
-- Viet Nam: Proficient
+- Vietnamese: Proficient
