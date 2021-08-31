@@ -2,7 +2,7 @@
 - Name: Hoang Gia Huy
 - Current Location: Viet Nam
 ### Field
-- Machine leaning
+- Data Science
 - Natural Language Processing
 - Computer Vision (in progress)
 - IoT (in progress)
@@ -16,3 +16,4 @@
 ### Languages
 - English: Intermediate
 - Vietnamese: Proficient
+
