@@ -1,6 +1,8 @@
 ### Bio
 - Name: Hoang Gia Huy
 - Current Location: Viet Nam
+### Summary
+- ...
 ### Main skills
 - Data Science
 - Natural Language Processing
