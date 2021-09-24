@@ -22,9 +22,8 @@
 - [Machine learning Coursera](https://coursera.org/share/7d1a910c51a1218e6a9d3d516a9f6554)
 - [Deep learning Coursera](https://coursera.org/share/697dad03c3b610146a57800048f7fc99)
 ### Languages
-- English: Intermediate
-- Vietnamese: Proficient
-|Language  |Proficency    |
-|----------|--------------|
-|English   |Intermediate 	|
-|Vietnamese|Proficient    |
+| Language   | Proficiency  |
+|------------|--------------|
+| English    | Intermediate |
+| Vietnamese | Proficient   |
+
