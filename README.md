@@ -9,7 +9,7 @@
 - IoT (Jetson Nano)
 - Android (in progress)
 ### Programming
-- Programming: Python, Java, C, Matlab, MSSQL, pogrestSQL, MongoDB
+- Programming: Python, Java, C, Matlab, SQL, MongoDB
 - Libraries/Frameworks: Scikit-learn, Tensorflow, Keras, Gensim, SpaCy, Numpy, Pandas, Matplotlib, Open-CV, NLTK
 ### Certifications/Qualifications
 - [Machine learning Coursera](https://coursera.org/share/7d1a910c51a1218e6a9d3d516a9f6554)
