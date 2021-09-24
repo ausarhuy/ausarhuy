@@ -14,7 +14,8 @@
 ### Certifications/Qualifications
 - [Machine learning Coursera](https://coursera.org/share/7d1a910c51a1218e6a9d3d516a9f6554)
 - [Deep learning Coursera](https://coursera.org/share/697dad03c3b610146a57800048f7fc99)
+### Education
+- [B.Sc. in Computer Science - Ton Duc Thang University] (https://www.linkedin.com/school/ton-duc-thang-university/?originalSubdomain=vn)
 ### Languages
 - English: Intermediate
 - Vietnamese: Proficient
-
