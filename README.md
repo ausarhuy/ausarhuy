@@ -1,7 +1,10 @@
 ### Bio
 - Name: Hoang Gia Huy
 - Current Location: Viet Nam
+- Email: Ausarhuy@gmail.com
 ### Summary
+- ...
+### Experience
 - ...
 ### Main skills
 - Data Science
