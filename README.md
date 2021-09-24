@@ -3,7 +3,8 @@
 - Current Location: Viet Nam
 - Email: Ausarhuy@gmail.com
 ### Summary
-Result-oriented professional targeting roles in Data Science/MLops. Accomplished Machine learning with demonstrated ability to deliver valuable insights via Natural Language Processing and Computer Vision approaches.
+- Result-oriented professional targeting roles in Data Science/MLops. Accomplished Machine learning with demonstrated ability to deliver valuable insights via Natural Language Processing and Computer Vision approaches.
+- I’m also seeking for a challenging environment which encourages learning, creativity that provides exposure to new ideas and stimulates personal and professional growth.
 ### Experience
 - ...
 ### Main skills
