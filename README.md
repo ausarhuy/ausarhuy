@@ -13,9 +13,9 @@
 - Computer Vision (in progress)
 ### Addition skills
 - IoT (Jetson Nano)
-- Android (in progress)
-### Programming
-- Programming: Python, Java, C, Matlab, SQL, MongoDB
+- Android Development (in progress)
+### Programming skills
+- Language: Python, Java, C, Matlab, SQL, MongoDB
 - Libraries/Frameworks: Scikit-learn, Tensorflow, Keras, Gensim, SpaCy, Numpy, Pandas, Matplotlib, Open-CV, NLTK
 ### Education
 - 2018 - present: [B.Sc. in Computer Science - Ton Duc Thang University](https://www.linkedin.com/school/ton-duc-thang-university/?originalSubdomain=vn)
