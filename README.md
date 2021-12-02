@@ -8,7 +8,6 @@
 ### Experience
 - ...
 ### Main skills
-- Data Science
 - Natural Language Processing
 - Computer Vision (in progress)
 ### Addition skills
