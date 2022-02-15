@@ -11,8 +11,8 @@
 - Natural Language Processing
 - Computer Vision (in progress)
 ### Addition skills
-- IoT (Jetson Nano)
-- Android Development (in progress)
+- Embedding system (Jetson Nano)
+- Android Development basic
 ### Programming skills
 - Language: Python, Java, C, Matlab, SQL, MongoDB
 - Libraries/Frameworks: Scikit-learn, Tensorflow, Keras, Gensim, SpaCy, Numpy, Pandas, Matplotlib, Open-CV, NLTK
@@ -21,7 +21,7 @@
 ### Certifications/Qualifications
 - [Machine learning Coursera](https://coursera.org/share/7d1a910c51a1218e6a9d3d516a9f6554)
 - [Deep learning Coursera](https://coursera.org/share/697dad03c3b610146a57800048f7fc99)
-- [TMA Solutions Internship](https://drive.google.com/file/d/1PzTyQYL4c_xiUgl63mggUjeukhYVifZm/view?usp=sharing)
+- [Tensorflow 2 Coursera](https://coursera.org/share/d0a059ef2f9604cd33c9bffe4ef2bf6f)
 ### Languages
 | Language   | Proficiency  |
 |------------|--------------|
