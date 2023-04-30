@@ -2,19 +2,16 @@
 - Name: Hoang Gia Huy
 - Current Location: Viet Nam
 - Email: ausarhuy@gmail.com
+- Current job: Fresher Data Scientist at TMA solutions
 ### Summary
-- Result-oriented professional targeting roles in Data Science/AI engineering. Accomplished Machine learning with demonstrated ability to deliver valuable insights via Natural Language Processing approaches.
-- I’m also seeking for a challenging environment which encourages learning, creativity that provides exposure to new ideas and stimulates personal and professional growth.
-### Main skills
+I am a result-oriented professional with a strong background in machine learning and natural language processing. I am currently seeking roles in data science and AI engineering. I am passionate about using NLP techniques to deliver valuable insights and drive business success. I am also committed to continuous learning and growth in a challenging and creative environment.
+### Technical Skill
 - Natural Language Processing
-- Computer Vision (in progress)
-### Additional skills
-- Embedding system (Jetson Nano)
-- Android Development basic
+- Machine Learning
 ### Programming skills
-- Language: Python, Java, C, Matlab
-- DBMS: SQL, MongoDB
-- Libraries/Frameworks: Scikit-learn, Tensorflow, Keras, Gensim, SpaCy, Numpy, Pandas, Matplotlib, Open-CV, NLTK
+- Languages: Proficient in Python and experienced in C, Java.
+- Databases: Experienced in working with SQL and MongoDB databases for data storage and retrieval.
+- Libraries/Frameworks: Skilled in using various machine learning and NLP libraries and frameworks, including Scikit-learn, TensorFlow, Keras, Gensim, SpaCy, NumPy, Pandas, Matplotlib, OpenCV, and NLTK.
 ### Education
 - 2018 - present: [B.Sc. in Computer Science - Ton Duc Thang University](https://www.linkedin.com/school/ton-duc-thang-university/?originalSubdomain=vn)
 - 2022 - present: [TDTU's AI lab](https://sites.google.com/view/ailab-tdtu)
@@ -29,4 +26,3 @@
 |------------|--------------|
 | English    | Intermediate |
 | Vietnamese | Proficient   |
-
