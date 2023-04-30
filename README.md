@@ -4,7 +4,7 @@
 - Email: ausarhuy@gmail.com
 - Current job: Fresher Data Scientist at TMA solutions
 ### Summary
-I am a result-oriented professional with a strong background in machine learning and natural language processing. I am currently seeking roles in data science and AI engineering. I am passionate about using NLP techniques to deliver valuable insights and drive business success. I am also committed to continuous learning and growth in a challenging and creative environment.
+I am a result-oriented professional with a strong background in machine learning and natural language processing. I am passionate about using NLP techniques to deliver valuable insights and drive business success. I am also committed to continuous learning and growth in a challenging and creative environment.
 ### Technical Skill
 - Natural Language Processing
 - Machine Learning
