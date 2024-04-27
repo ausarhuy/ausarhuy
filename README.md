@@ -1,8 +1,14 @@
 ### Personal Information
-- Name: Hoang Gia Huy
+- Real Name: Hoang Gia Huy
+- English Name: Ausar
 - Current Location: Viet Nam
 - Email: ausarhuy@gmail.com
-- Current job: Fresher Data Scientist at TMA solutions
+- Current job: Data Scientist at TMA solutions
+### PC information
+- OS: Windows 11 Pro with Ubuntu 24.04 (WSL)
+- CPU: Intel i5 13400f
+- GPU: Nvidia RTX 4060ti 16GB
+- Memory: 32GB
 ### Summary
 I am a result-oriented professional with a strong background in machine learning and natural language processing. I am passionate about using NLP techniques to deliver valuable insights and drive business success. I am also committed to continuous learning and growth in a challenging and creative environment.
 ### Technical Skill
