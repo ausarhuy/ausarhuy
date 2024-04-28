@@ -4,23 +4,25 @@
 - Current Location: Viet Nam
 - Email: ausarhuy@gmail.com
 - Current job: Data Scientist at TMA solutions
-### PC information
+### PC specifications
 - OS: Windows 11 Pro with Ubuntu 24.04 (WSL)
 - CPU: Intel i5 13400f
 - GPU: Nvidia RTX 4060ti 16GB
 - Memory: 32GB
+- Edge Device: Jetson Nano Developer Kit B01
 ### Summary
 I am a result-oriented professional with a strong background in machine learning and natural language processing. I am passionate about using NLP techniques to deliver valuable insights and drive business success. I am also committed to continuous learning and growth in a challenging and creative environment.
 ### Technical Skill
 - Natural Language Processing
 - Machine Learning
+- Prompt Engineering
 ### Programming skills
 - Languages: Proficient in Python and experienced in C, Java.
-- Databases: Experienced in working with SQL and MongoDB databases for data storage and retrieval.
+- Databases: Experienced in working with SQL and MongoDB databases for data storage and retrieval. Experienced in working Qdrant and Chroma DB for RAG projects.
 - Libraries/Frameworks: Skilled in using various machine learning and NLP libraries and frameworks, including Scikit-learn, TensorFlow, Keras, Gensim, SpaCy, NumPy, Pandas, Matplotlib, OpenCV, and NLTK.
 ### Education
-- 2018 - present: [B.Sc. in Computer Science - Ton Duc Thang University](https://www.linkedin.com/school/ton-duc-thang-university/?originalSubdomain=vn)
-- 2022 - present: [TDTU's AI lab](https://sites.google.com/view/ailab-tdtu)
+- 2018 - 2024: [B.Sc. in Computer Science - Ton Duc Thang University](https://www.linkedin.com/school/ton-duc-thang-university/?originalSubdomain=vn)
+- 2022 - 2023: [TDTU's AI lab](https://sites.google.com/view/ailab-tdtu)
 ### Certifications/Qualifications
 - [Machine learning Coursera](https://coursera.org/share/7d1a910c51a1218e6a9d3d516a9f6554)
 - [Deep learning Coursera](https://coursera.org/share/697dad03c3b610146a57800048f7fc99)
