@@ -14,7 +14,7 @@
 - Memory: 32GB
 - Edge Device: Jetson Nano Developer Kit B01
 ### Summary
-As an AI engineer with two years of experience, my primary focus would involve developing and deploying natural language processing (NLP) applications. I have a strong foundation in Python and experience with C and Java. My responsibilities would include building and maintaining backend infrastructure using frameworks like Flask or FastAPI. I’d also utilize containerization tools like Docker for efficient deployment. Leveraging my expertise in training AI models, I’d create intelligent systems capable of understanding and generating human language. Large language models (LLMs) and retrieval-augmented generation (RAG) techniques would be key in building cutting-edge NLP solutions. Collaboration with cross-functional teams, translating business requirements into technical specifications, and staying up-to-date with NLP advancements would be essential.
+As an AI engineer with two years of experience, my primary focus would involve developing and deploying natural language processing (NLP) applications. I have a strong foundation in Python and experience with C and Java. My responsibilities would include building and maintaining backend infrastructure using frameworks like Flask or FastAPI. I’d also utilize containerization tools like Docker for efficient deployment. Leveraging my expertise in training AI models, I’d create intelligent systems capable of understanding and generating human language.
 ### Certifications/Qualifications
 - [Machine learning Coursera](https://coursera.org/share/7d1a910c51a1218e6a9d3d516a9f6554)
 - [Deep learning Coursera](https://coursera.org/share/697dad03c3b610146a57800048f7fc99)
