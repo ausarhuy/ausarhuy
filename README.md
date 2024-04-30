@@ -1,7 +1,6 @@
 ### Personal Information
 - Real Name: Hoang Gia Huy
 - English Name: Ausar
-- Current Location: Viet Nam
 - Email: ausarhuy@gmail.com
 - Current job: Data Scientist at TMA solutions
 ### Education
